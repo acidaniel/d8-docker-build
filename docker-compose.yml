@@ -8,7 +8,7 @@ services:
       dockerfile: Dockerfile
 #     dockerfile: Dockerfile-xdebug 
     ports:
-      - "8082:80"
+      - "8090:80"
     volumes:
       - ./build:/srv
       - ./src/test_project:/srv/profiles/test_project

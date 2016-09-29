@@ -17,10 +17,6 @@ use Drupal\user\RoleInterface;
  */
 function test_project_install() {
   $config_factory = \Drupal::configFactory();
-  // Set front page to "node".
-  $config_factory->getEditable('system.site')
-    ->set('page.front', '/homepage')
-    ->save(TRUE);
 
   // Allow visitor account creation with administrative approval.
   $user_settings = $config_factory->getEditable('user.settings');
