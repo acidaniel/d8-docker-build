@@ -1,0 +1,21 @@
+{
+  "image": "<img src='../assets/pp.jpeg' alt='Miriam B. Werner' />",
+  "name":"Daniel Serna",
+  "bio":"Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus suscipit tortor eget felis porttitor volutpat. Donec rutrum congue leo eget malesuada. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Nulla porttitor accumsan tincidunt. Donec rutrum congue leo eget malesuada. Pellentesque in ipsum id orci porta dapibus.",
+  "showBio": "View full biography",
+  "hideBio": "Hide biography",
+  "socialLinks": [
+    {
+      "icon": "instagram",
+      "url": "http://instagram.com"
+    },
+    {
+      "icon": "twitter",
+      "url": "http://twitter.com"
+    },
+    {
+      "icon": "youtube",
+      "url": "http://youtube.com"
+    }
+  ]
+}
