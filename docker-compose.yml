@@ -27,7 +27,7 @@ services:
     image: percona:5.7
     container_name: test_mysql
     volumes:
-      - /dev/shm/mysql-test-dev:/var/lib/mysql
+      - ./db:/var/lib/mysql
     environment:
       MYSQL_DATABASE: d8
       MYSQL_USER: d8

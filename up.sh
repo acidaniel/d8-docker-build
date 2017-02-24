@@ -12,4 +12,4 @@ docker-compose up -d
 
 ./build.sh
 ./install.sh
-
+./gulp.sh

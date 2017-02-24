@@ -19,3 +19,10 @@ projects:
     type: "module"
     version: "1.1"
 
+  entity_reference_revisions:
+    type: "module"
+    version: "1.2"
+
+  paragraphs:
+    type: "module"
+    version: "1.0"
